@@ -2,11 +2,12 @@
 
 #### about me
 
-- learning `C` & `Rust`
+- learning C + django
+- software engineer @ Red Hat Plumbers team
 - undergrad student @ [universidade de são paulo](https://www5.usp.br)
-- studying algorithms
+- proud member of [lkcamp.dev](LKCamp)
 
 #### what i do
 
-- now: augmented reality for the web + linux kernel
-- previous: [whatsApp bot](https://app.machinazap.com)
+- now: C static analysis tool + linux kernel unit testing
+- previous: whatsapp bot + AR for the web
