@@ -2,12 +2,12 @@
 
 #### about me
 
-- learning C, django and DRM basics
+- learning C++, vulkan, and DRI
 - software engineer @ Red Hat Plumbers team
-- undergrad student @ [universidade de são paulo](https://www5.usp.br)
-- proud member of [lkcamp.dev](LKCamp)
+- undergrad student @ [university of são paulo](https://www5.usp.br)
+- proud member of [LKCamp](lkcamp.dev)
 
 #### what i do
 
-- now: static analysis CI + linux kernel unit testing
+- now: static analysis CI + [linux kernel unit testing](https://summerofcode.withgoogle.com/proposals/details/XoZiYvMx)
 - previous: whatsapp bot + AR for the web
