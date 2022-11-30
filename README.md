@@ -2,12 +2,12 @@
 
 #### about me
 
-- learning C++, vulkan, and DRI
+- learning about graphics APIs
 - software engineer @ Red Hat Plumbers team
 - undergrad student @ [university of são paulo](https://www5.usp.br)
 - proud member of [LKCamp](lkcamp.dev)
 
-#### what i do
+#### what I do
 
-- now: static analysis CI + [linux kernel unit testing](https://summerofcode.withgoogle.com/proposals/details/XoZiYvMx)
-- previous: whatsapp bot + AR for the web
+- now: static analysis CI + [research on alternative (open source) GPGPU stacks](https://github.com/isinyaaa/foss-gpgpu-stack)
+- previous: whatsapp bot + AR for the web + [Linux kernel unit testing](https://summerofcode.withgoogle.com/proposals/details/XoZiYvMx)
