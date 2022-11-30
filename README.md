@@ -1,4 +1,4 @@
-<img height="300" align="left" src="https://user-images.githubusercontent.com/39812919/122685073-b5075180-d1df-11eb-8172-9ee6ada53190.gif" />
+<img height="150" src="https://user-images.githubusercontent.com/39812919/122685073-b5075180-d1df-11eb-8172-9ee6ada53190.gif" />
 
 #### about me
 
