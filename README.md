@@ -1,13 +1,14 @@
 <img height="150" src="https://user-images.githubusercontent.com/39812919/122685073-b5075180-d1df-11eb-8172-9ee6ada53190.gif" />
+<!-- Trivia: in case you're reading this, the gif came from an obscure Boards of Canada page I found. If you don't know them, go listen, they're pretty good! -->
 
 #### about me
 
-- learning about graphics APIs
-- software engineer @ Red Hat Plumbers team
-- undergrad student @ [university of são paulo](https://www5.usp.br)
-- proud member of [LKCamp](lkcamp.dev)
+- learning about data science/machine learning
+- software engineer @ OpenDataHub [Model Registry](https://github.com/opendatahub-io/model-registry) team
+- owned by this beautiful cat in the pic, she's called Ubunta
+- not sure what else to put here
 
 #### what I do
 
-- now: static analysis CI + [research on alternative (open source) GPGPU stacks](https://github.com/isinyaaa/foss-gpgpu-stack)
-- previous: whatsapp bot + AR for the web + [Linux kernel unit testing](https://summerofcode.withgoogle.com/proposals/details/XoZiYvMx)
+- now: [lecture transcriptions CLI](https://github.com/SuperLesson/SuperLesson) + [research on alternative (open source) GPGPU stacks](https://github.com/isinyaaa/foss-gpgpu-stack)
+- previous: [Linux kernel unit testing](https://summerofcode.withgoogle.com/proposals/details/XoZiYvMx) + [static analysis CI](https://github.com/openscanhub/openscanhub)
