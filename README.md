@@ -10,5 +10,5 @@
 
 #### what I do
 
-- now: [lecture transcriptions CLI](https://github.com/SuperLesson/SuperLesson) + [research on alternative (open source) GPGPU stacks](https://github.com/isinyaaa/foss-gpgpu-stack)
+- now: [lecture transcriptions CLI](https://github.com/SuperLesson/SuperLesson)
 - previous: [Linux kernel unit testing](https://summerofcode.withgoogle.com/proposals/details/XoZiYvMx) + [static analysis CI](https://github.com/openscanhub/openscanhub)
