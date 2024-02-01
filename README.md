@@ -8,7 +8,8 @@
 - owned by this beautiful cat in the pic, she's called Ubunta
 - not sure what else to put here
 
-#### what I do
+<!-- #### what I do
 
 - now: [lecture transcriptions CLI](https://github.com/SuperLesson/SuperLesson)
 - previous: [Linux kernel unit testing](https://summerofcode.withgoogle.com/proposals/details/XoZiYvMx) + [static analysis CI](https://github.com/openscanhub/openscanhub)
+-->
