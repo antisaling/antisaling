@@ -3,10 +3,10 @@
 
 #### about me
 
-- learning about data science/machine learning
-- software engineer @ OpenDataHub [Model Registry](https://github.com/opendatahub-io/model-registry) team
-- owned by this beautiful cat in the pic, she's called Ubunta
-- not sure what else to put here
+- learning about gamedev
+- data-oriented cat lover
+- thinks go is cool (both of them of course)
+- _pythonista_ 🐍🐍 by trade, low-level by choice
 
 <!-- #### what I do
 
