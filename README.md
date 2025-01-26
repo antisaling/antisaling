@@ -5,8 +5,7 @@
 
 - learning about gamedev
 - data-oriented cat lover
-- thinks go is cool (both of them of course)
-- _pythonista_ 🐍🐍 by trade, low-level by choice
+- getting Rust-y
 
 <!-- #### what I do
 
