@@ -3,12 +3,12 @@
 
 #### about me
 
-- learning about gamedev
-- data-oriented cat lover
-- getting Rust-y
+- data-oriented
+- code
 
-<!-- #### what I do
+#### what I do
 
-- now: [lecture transcriptions CLI](https://github.com/SuperLesson/SuperLesson)
-- previous: [Linux kernel unit testing](https://summerofcode.withgoogle.com/proposals/details/XoZiYvMx) + [static analysis CI](https://github.com/openscanhub/openscanhub)
--->
+- now: [music player](https://codeberg.org/musicca/skald) + [game](https://codeberg.org/catermujo/obtanium) + [research](https://github.com/isinyaaa/py-ffi)
+- previous:
+  - AI tooling/web dev [model registry](https://github.com/kubeflow/model-registry) + [lecture transcriptions CLI](https://codeberg.org/aehse/superlesson) +  [ultrasound visualization website](https://github.com/ultron-labs/ultron)
+  - Low-level [linux kernel unit testing](https://summerofcode.withgoogle.com/proposals/details/XoZiYvMx); web dev [static analysis CI](https://github.com/openscanhub/openscanhub)
