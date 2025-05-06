@@ -10,5 +10,5 @@
 
 - now: [music player](https://codeberg.org/musicca/skald) + [game](https://codeberg.org/catermujo/obtanium) + [research](https://github.com/isinyaaa/py-ffi)
 - previous:
-  - AI tooling/web dev [model registry](https://github.com/kubeflow/model-registry) + [lecture transcriptions CLI](https://codeberg.org/aehse/superlesson) +  [ultrasound visualization website](https://github.com/ultron-labs/ultron)
-  - Low-level [linux kernel unit testing](https://summerofcode.withgoogle.com/proposals/details/XoZiYvMx); web dev [static analysis CI](https://github.com/openscanhub/openscanhub)
+  - AI tooling/web [model registry](https://github.com/kubeflow/model-registry) + [lecture transcriptions CLI](https://codeberg.org/aehse/superlesson) +  [ultrasound visualization website](https://github.com/ultron-labs/ultron)
+  - Low-level [linux kernel unit testing](https://summerofcode.withgoogle.com/proposals/details/XoZiYvMx); web [static analysis CI](https://github.com/openscanhub/openscanhub)
