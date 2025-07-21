@@ -10,6 +10,6 @@
 
 - now: [music player](https://codeberg.org/musicca/skald) + [game](https://codeberg.org/catermujo/conurbation)
 - previous:
-  - Research on [Python-Rust FFI](https://github.com/isinyaaa/python-ffi)
-  - AI tooling/web [model registry](https://github.com/kubeflow/model-registry) + [lecture transcriptions CLI](https://codeberg.org/aehse/superlesson) +  [ultrasound visualization website](https://github.com/ultron-labs/ultron)
+  - Research on [Python-Rust FFI](https://github.com/antisaling/python-ffi)
+  - AI tooling/web [model registry](https://github.com/kubeflow/model-registry) + [lecture transcriptions CLI](https://codeberg.org/antisaling/superlesson) +  [ultrasound visualization website](https://github.com/ultron-labs/ultron)
   - Low-level [linux kernel unit testing](https://summerofcode.withgoogle.com/proposals/details/XoZiYvMx); web [static analysis CI](https://github.com/openscanhub/openscanhub)
