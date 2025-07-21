@@ -4,7 +4,7 @@
 #### about me
 
 - data-oriented
-- code
+- learning gfx
 
 #### what I do
 
